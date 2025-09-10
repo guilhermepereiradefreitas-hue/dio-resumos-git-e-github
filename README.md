@@ -9,4 +9,4 @@ Aumento de vendas e Fidelização de Clientes atraves do Marketing.
 ## 🥪🧀 Receitas 
     - Postagens de Receitas no instagram mediante ao dia das promoções adicionando produtos que temos em loja.  
 ## 🪧 Placas 
-    - 
+    - Placas interatuivas com curiosidades e com fotos no instagran  
